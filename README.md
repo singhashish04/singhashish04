@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Java Full Stack**
 
-- 💬 Ask me about **Data Analytics**
+- 💬 Ask me about **Java Full Stack**
 
 - 📫 How to reach me **ashish1rajput07@gmail.com**
 
